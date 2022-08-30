@@ -1,0 +1,5 @@
+- 👋 Hi, Prikshit Kumar
+- 👀 I’m interested in open source
+- 🌱 I’m currently learning kunbernetes
+- 💞️ I’m looking to collaborate on kubernetes projects
+- 📫 How to reach me busyprikshit001@gmail.com
